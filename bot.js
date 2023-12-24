@@ -71,4 +71,3 @@ function handleChat(){
     }, 600);
 }
 
-console.log(userMessage);
